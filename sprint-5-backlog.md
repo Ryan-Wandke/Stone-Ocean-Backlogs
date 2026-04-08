@@ -11,7 +11,7 @@ Product Owner: Ryan Wandke
 
 Sprint 5 Planning Date/Time: 4/7/2026
 
-Sprint 5 Planning Participants: Ryan Wandke, Nicholas Jones, Juno Tyne
+Sprint 5 Planning Participants: Ryan Wandke, Nicholas Jones, Juno Tyne, Fawz Mansoor
 
 Sprint 5 Backlog:
 
