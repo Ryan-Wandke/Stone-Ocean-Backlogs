@@ -19,4 +19,4 @@ Product Backlog:
 | RC-014 | As a user, I want the new slide that displays the Stone Ocean team to be aesthetically pleasing. | 7 | 8 | N | Ready | -- |
 | RC-015 | As a developer, I want to add a new slide to the test branch, then remove it in order to confirm that the steps gathered from RC-013 work properly| 7 | 8 | Y | Ready | -- |
 | RC-016 | As a developer, I want to review with the current team the process for merging the test branch into the main branch and document that process| 7 | 8 | Y | Ready | -- |
-
+| RC-019 | As a developer, I want to communicate with the other team and ask them what features that they want completed on the product, so that our team can get an idea of other stories to work on in order to add desired value to the product. | 6 | 1 | Y | Ready | --
