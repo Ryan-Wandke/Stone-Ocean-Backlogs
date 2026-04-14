@@ -11,7 +11,7 @@ Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-020 | As a developer I want to  coordinate a time to do the Celebration of Scholarship Lite to be able to support  the Capstone team’s Celebration of Scholarship Lite upcoming events by being at their event on the 21st. | 10 | 2 | Ready | -- |
+| RC-020 | As a developer I want to  coordinate a time to do the Celebration of Scholarship Lite to be able to support  the Capstone team’s Celebration of Scholarship Lite upcoming events by being at their event on the 21st. | 10 | 2 | Y | Ready | -- |
 | RC-012 | As a user, I want to be able to see the new Stone Ocean team  and it's members listed in one of the slides on the ECaMS billboard | 8 | 2 | N | Ready | -- |
 | RC-013 | As a devloper, I want to figure out and document the process for adding, removing and updating slides on the billboard by communcating with the previous team| 7 | 2 | Y | Ready | -- |
 | RC-019 | As a developer, I want to communicate with the other team and ask them what features that they want completed on the product, so that our team can get an idea of other stories to work on in order to add desired value to the product. | 5 | 2 | Y | Ready | -- | 
