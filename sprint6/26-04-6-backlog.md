@@ -18,4 +18,5 @@ Product Backlog:
 | RC-014 | As a user, I want the new slide that displays the Stone Ocean team to be aesthetically pleasing. | 7 | 8 | N | Ready | -- |
 | RC-015 | As a developer, I want to add a new slide to the test branch, then remove it in order to confirm that the steps gathered from RC-013 work properly| 7 | 8 | Y | Ready | -- |
 | RC-016 | As a developer, I want to review with the current team the process for merging the test branch into the main branch and document that process| 7 | 8 | Y | Ready | -- |
-
+| RC-017 | As a user, I want the Stone Ocean team to have a unique and recognizable logo so that I can easily identify them | 5 | 1 | N | Ready | -- |
+| RC-018 | As a developer, I want to make sure that one of us from StoneOcean is given the admin title from the SpeedGoats so that our team can have full control of the billboards in the Fall 2025 Capstone | 4 | 1 | Y | Ready | -- |
