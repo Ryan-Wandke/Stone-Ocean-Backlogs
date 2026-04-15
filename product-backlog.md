@@ -11,12 +11,8 @@ Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-009 | As a developer, we want to to be able to merge our test branch code into the main branch and make sure it actually ends up on the ECaMS Billboard | 5 | 4 | N | Ready | -- |
-| RC-010 | As a developer, I want to support  the Capstone team’s Celebration of Scholarship Lite upcoming events by being at their event on the 21st. | 4 | 4 | Y | Ready | -- |
-| RC-011 | As a developer, I want to make sure that me and my team are credited on the ECaMS Billboard and make sure that it shows up on the ECaMS Billboard | 4 | 4 | N | Ready | -- |
-| RC-012 | As a user, I want to be able to see the new Stone Ocean team  and it's members listed in one of the slides on the ECaMS billboard | 7 | 8 | N | Ready | -- |
-| RC-013 | As a devloper, I want to figure out and document the process for adding, removing and updating slides on the billboard by communcating with the previous team| 7 | 8 | Y | Ready | -- |
-| RC-014 | As a user, I want the new slide that displays the Stone Ocean team to be aesthetically pleasing. | 7 | 8 | N | Ready | -- |
-| RC-015 | As a developer, I want to add a new slide to the test branch, then remove it in order to confirm that the steps gathered from RC-013 work properly| 7 | 8 | Y | Ready | -- |
-| RC-016 | As a developer, I want to review with the current team the process for merging the test branch into the main branch and document that process| 7 | 8 | Y | Ready | -- |
-| RC-019 | As a developer, I want to communicate with the other team and ask them what features that they want completed on the product, so that our team can get an idea of other stories to work on in order to add desired value to the product. | 6 | 1 | Y | Ready | --
+| RC-021 | As a user, I want a form to give recomendations and feedback to the team in charge of the bilboard | -- | -- | N | Ready | -- |
+| RC-022 | As a user, I want the recommendation and feedback form to be easily reachable and user friendly | -- | -- | N | Ready | -- |
+| RC-023 | As a developer, I want to learn and document the process of migrating the host of the site | -- | -- | Y | Ready | -- |
+| RC-024 | As a developer, I want to learn and document how to use the pi for the sake of upkeeping | -- | -- | Y | Ready | -- |
+| RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | -- | -- | Y | Ready | -- |
