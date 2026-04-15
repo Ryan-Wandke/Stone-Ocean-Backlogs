@@ -14,5 +14,4 @@ Product Backlog:
 | RC-021 | As a user, I want a form to give recomendations and feedback to the team in charge of the bilboard | -- | -- | N | Ready | -- |
 | RC-022 | As a user, I want the recommendation and feedback form to be easily reachable and user friendly | -- | -- | N | Ready | -- |
 | RC-023 | As a developer, I want to learn and document the process of migrating the host of the site | -- | -- | Y | Ready | -- |
-
 | RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | -- | -- | Y | Ready | -- |
