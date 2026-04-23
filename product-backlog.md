@@ -22,4 +22,4 @@ Product Backlog:
 | RC-034 | As a developer, I want to be able to have an automatic email sent out to notify my team when slide needs approval | -- | -- | Y | Ready | -- |
 | RC-035 | As a developer, I want to learn and document the process of creating a brand new pi for the billboard | -- | -- | Y | Ready | -- |
 | RC-036 | As a developer, I want to learn and document the process of setting up a backup pi | -- | -- | Y | Ready | -- |
-
+| RC-037 | As a developer, I would like to unify the backlogs to make sure no stories are lost | -- | -- | Y | Ready | -- |
