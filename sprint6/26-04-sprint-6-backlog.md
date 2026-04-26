@@ -12,7 +12,7 @@ Product Backlog:
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-020 | As a developer I want to  coordinate a time to do the Celebration of Scholarship Lite to be able to support the Capstone team’s Celebration of Scholarship Lite upcoming events by being at their event on the 21st. | 10 | 2 | Y | Done | Ryan |
-| RC-026 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment | 8 | 2 | Y | Ready | Ryan |
+| RC-026 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment | 8 | 2 | Y | Done | Ryan |
 | RC-027 | As a Product Owner, I want to manage the backlogs and focus on getting our teammates to know the product and prioritize stories so that I can deliver value to users by the end of the sprint. | 8 | 2 | Y | Done | Juno |
 | RC-012 | As a user, I want to be able to see the new Stone Ocean team and it's members listed in one of the slides on the ECaMS billboard | 8 | 2 | N | Ready | Nicholas |
 | RC-013 | As a devloper, I want to figure out and document the process for adding, removing and updating slides on the billboard by communcating with the previous team| 7 | 2 | Y | Done | Ryan |
