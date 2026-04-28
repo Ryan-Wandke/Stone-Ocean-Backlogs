@@ -26,3 +26,8 @@ Product Backlog:
 | RC-036 | As a developer, I want to learn and document the process of setting up a backup pi | -- | -- | Y | Ready | -- |
 | RC-037 | As a developer, I would like to unify the backlogs to make sure no stories are lost | -- | -- | Y | Ready | -- |
 | RC-038 | As a user, I want to see a new slide with StoneOcean's new logo so I can identify them easier than the original slide |  
+| RC-039 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. |
+| RC-040 | As a Product Owner, I want to manage the backlogs and focus on getting our teammates to know the product and prioritize stories so that I can deliver value to users by the end of the sprint. |
+| RC-041 | As a  developer I want to coordinate with Speed Goats to get a time for a joint presentation. |
+| RC-042 | As a product owner I want to be able to merge the Speed Goats stories into our product backlog. |
+
