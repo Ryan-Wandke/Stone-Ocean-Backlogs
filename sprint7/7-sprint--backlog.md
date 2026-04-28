@@ -3,9 +3,9 @@ layout: default
 title: Product Backlog
 ---
 
-# 📋 Product Backlog – sprint 6
+# 📋 Product Backlog – sprint 7
 
-Scrum Master: Ryan Wandke
+Scrum Master: Juno Tyne
 
 Product Backlog:
 
