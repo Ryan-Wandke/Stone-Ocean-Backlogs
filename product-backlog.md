@@ -30,4 +30,7 @@ Product Backlog:
 | RC-040 | As a Product Owner, I want to manage the backlogs and focus on getting our teammates to know the product and prioritize stories so that I can deliver value to users by the end of the sprint. | 5 | 4 | Y | Ready | -- |
 | RC-041 | As a  developer I want to coordinate with Speed Goats to get a time for a joint presentation. | 9 | 2 | Y | Ready | -- |
 | RC-042 | As a product owner I want to be able to merge the Speed Goats stories into our product backlog. | 10 | 5 | Y | Ready | -- |
-| RC-043 | 
+| RC-043 | As a developer, I want to transition the ecamsbillboard@gmail.com email account to the new team | 10 | 1 | Y | Ready | -- |
+| RC-044 | As a developer, I want to create a hierarchy in the list of accepted emails in the API, so that no one can remove the ECaMS email, and the ECaMS account can remove anyone else. | 1 | 4 | N | Ready | -- |
+| RC-045 | As a user, I want a visually appealing slide with a qr code to access the feedback form | 1 | 2 | N | Ready | -- |
+
