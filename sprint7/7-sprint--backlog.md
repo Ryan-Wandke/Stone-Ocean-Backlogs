@@ -22,6 +22,7 @@ Product Backlog:
 | RC-033 | As a user, I want to be able to view the slides on the ECaMS buillboard in an order selected by the developers | 8 | 4 | N | Ready | Ryan |
 | RC-037 | As a developer, I would like to unify the backlogs to make sure no stories are lost | 6 | 4 | Y | Ready | Fawz |
 | RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | 6 | 3 | Y | Ready | Nicholas |
+| RC-038 | As a user, I want to see a new slide with StoneOcean's new logo so I can identify them easier than the original slide | 3 | 2 | Y | Ready | Juno |
 | RC-017 | As a user, I want the Stone Ocean team to have a unique and recognizable logo so that I can easily identify them | 3 | 2 | N | Ready | Juno |
 | RC-021 | As a user, I want a form to give recomendations and feedback to the team in charge of the billboard and to be accessible from the billboard | 3 | 2 | N | Ready | Juno |
 | RC-032 | As a developer, I want to be able to easily modify the order of the slides in the api | 3 | 4 | Y | Ready | Ryan |
