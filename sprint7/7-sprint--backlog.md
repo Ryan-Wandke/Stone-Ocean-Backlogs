@@ -23,8 +23,12 @@ Product Backlog:
 | RC-037 | As a developer, I would like to unify the backlogs to make sure no stories are lost | 6 | 4 | Y | Ready | Fawz |
 | RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | 6 | 3 | Y | Ready | Nicholas |
 | RC-017 | As a user, I want the Stone Ocean team to have a unique and recognizable logo so that I can easily identify them | 3 | 2 | N | Ready | Juno |
+| RC-021 | As a user, I want a form to give recomendations and feedback to the team in charge of the billboard and to be accessible from the billboard | 3 | 2 | N | Ready | Juno |
 | RC-032 | As a developer, I want to be able to easily modify the order of the slides in the api | 3 | 4 | Y | Ready | Ryan |
+| RC-022 | As a user, I want the recommendation and feedback form to be easily reachable and user friendly | 3 | 1 | N | Ready | Juno |
 | RC-044 | As a developer, I want to create a hierarchy in the list of accepted emails in the API, so that no one can remove the ECaMS email, and the ECaMS account can remove anyone else. | 1 | 4 | N | Ready | Ryan |
+| RC-045 | As a user, I want a visually appealing slide with a qr code to access the feedback form | 1 | 2 | N | Ready | Juno |
+
 
 
 
