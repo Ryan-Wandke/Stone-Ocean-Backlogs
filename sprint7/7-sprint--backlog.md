@@ -13,7 +13,7 @@ Product Backlog:
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-042 | As a product owner I want to be able to merge the Speed Goats stories into our product backlog. | 10 | 5 | Y | Ready | Fawz |
 | RC-043 | As a developer, I want to transition the ecamsbillboard@gmail.com email account to the new team | 10 | 1 | Y | Ready | Juno |
-| RC-036 | As a developer, I want to learn and document the process of setting up a backup pi | 10 | 2 | Y | Ready | Nicholas |
+| RC-036 | As a developer, I want to learn and document the process of setting up a backup pi | 10 | 2 | Y | Done | Nicholas |
 | RC-023 | As a developer, I want to learn and document the process of migrating the host of the site | 10 | 2 | Y | Ready | Juno |
 | RC-041 | As a  developer I want to coordinate with Speed Goats to get a time for a joint presentation. | 9 | 2 | Y | Done | Nicholas |
 | RC-040 | As a Product Owner, I want to manage the backlogs and focus on getting our teammates to know the product and prioritize stories so that I can deliver value to users by the end of the sprint. | 8| 2 | Y | Ready | Fawz |
@@ -21,7 +21,7 @@ Product Backlog:
 | RC-035 | As a developer, I want to learn and document the process of creating a brand new pi for the billboard | 8 | 3 | Y | Ready | Nicholas |
 | RC-033 | As a user, I want to be able to view the slides on the ECaMS buillboard in an order selected by the developers | 8 | 4 | N | Ready | Ryan |
 | RC-037 | As a developer, I would like to unify the backlogs to make sure no stories are lost | 6 | 4 | Y | Ready | Fawz |
-| RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | 6 | 3 | Y | Ready | Nicholas |
+| RC-025 | As a developer, I want to learn and document how to properly modify the pi for future changes | 6 | 3 | Y | Done | Nicholas |
 | RC-038 | As a user, I want to see a new slide with StoneOcean's new logo so I can identify them easier than the original slide | 3 | 2 | Y | Ready | Juno |
 | RC-017 | As a user, I want the Stone Ocean team to have a unique and recognizable logo so that I can easily identify them | 3 | 2 | N | Ready | Juno |
 | RC-021 | As a user, I want a form to give recomendations and feedback to the team in charge of the billboard and to be accessible from the billboard | 3 | 2 | N | Ready | Juno |
