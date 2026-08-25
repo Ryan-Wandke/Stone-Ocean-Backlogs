@@ -21,6 +21,7 @@ Product Backlog:
 | RC-046 | As a team member, I would like to know who each poster was approved by to help keep track of whats happening. | 6 | 2 | N | Ready | -- |
 | RC-056 | As a developer I want to add a search feature | 6 | 4 | N | Ready | -- | 
 | RC-047 | As a team I would like to complete the Sprint planning on github projects  | 6 | 1 | Y | Ready | -- |
+| RC-065 | As a team member, reach out to Speva regarding the Rasberry Pi class slide | 5 | 2 | N | Ready | -- |
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | -- |
