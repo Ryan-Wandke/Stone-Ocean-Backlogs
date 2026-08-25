@@ -35,11 +35,6 @@ Product Backlog:
 | RC-060 | As product owner, coordinate Product Backlog grooming and Sprint Planning across product teams | 2 | 2 | N | Ready | -- |
 | RC-031 | As a user, I want the StoneOcean team to have a webpage so I can learn more about them | 2 | 5 | N | Ready | -- |
 | RC-034 | As a developer, I want to be able to have an automatic email sent out to notify my team when slide needs approval | 1 | 5 | Y | Ready | -- |
-| RC-066 | As a developer, I want to launch the Main Site using Microsoft Azure | 10 | 2 | N | Ready | -- |
-| RC-067 | As a developer, I want to launch the API Site using Microsoft Azure | 10 | 2 | N | Ready | -- |
-| RC-068 | As a developer, I want to sucessfully implement Google Autentication on both client and test API sites | 10 | 6 | N | Ready | -- |
-| RC-069 | As a team member, I want to make sure that the ECaMS Billboard is working properly and display the correct site | 9 | 1 | N | Ready | -- |
-| RC-070 | As a developer, I want to adjust the QR Code so that it can be seen properly and goes to our website | 3 | 2 | N | Ready | -- |
 
 
 
