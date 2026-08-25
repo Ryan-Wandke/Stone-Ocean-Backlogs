@@ -11,7 +11,7 @@ Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-052 | As a user, I would like to know that my poster was excepted by email | 8 | 3 | N | Ready | -- |
+| RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-054 | As a developer, Contact the other capstone teams to retreive links to their sites and ask for consent | 8 | 2 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
 | RC-063 | As a user, I would like for the campus map to include infromation about the buildings | 8 | 2 | N | Ready | -- |
@@ -29,7 +29,7 @@ Product Backlog:
 | RC-064 | As a user, I would like for the campus map to have clickable buttons on buildings to display the infromation | 4 | 3 | N | Ready | -- |
 | RC-058 | When submitting a poster, have a field to include date and time | 4 | 2 | N | Ready | -- |
 | RC-039 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 3 | 3 | Y | Ready | -- |
-| RC-053 | As a user, I would also like to have a confomation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
+| RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
 | RC-057 | As a developer I want to update bracket for april | 2 | 3 | N | Ready | -- |
 | RC-030 | As a user, I want the StoneOcean slide to have a QR Code on their slide so that I can learn more about the members of StoneOcean | 2 | 1 | N | Ready | -- |
 | RC-060 | As product owner, coordinate Product Backlog grooming and Sprint Planning across product teams | 2 | 2 | N | Ready | -- |
