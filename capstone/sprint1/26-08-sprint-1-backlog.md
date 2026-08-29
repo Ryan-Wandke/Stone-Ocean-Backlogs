@@ -26,5 +26,6 @@ Product Backlog:
 | RC-065 | As a team member, reach out to Speva regarding the Rasberry Pi class slide | 5 | 2 | N | Ready | Ryan |
 | RC-070 | As a developer, I want to adjust the QR Code so that it can be seen properly and goes to the ECaMS Billboard Website | 3 | 2 | N | Ready | Juno |
 | RC-031 | As a user, I want the StoneOcean team to have a webpage so I can learn more about them | 2 | 5 | N | Ready | Nicholas |
-| RC-071 | As a developer, I want to make sure that there is a QR Code on the Stone Ocean team slide so it goes to our website | 3 | 2 | N | Ready | Fawz |
+| RC-071A | As a user, I want the QR code to link me to the correct site | 5 | 1 | N | Ready | Fawz |
+| RC-071B | As a user, I want the QR code to be fully visible and usable when displayed on the physical billboard | 3 | 2 | N | Ready | Fawz |
 | RC-054 | As a developer, Contact the other capstone teams to retreive links to their sites and ask for consent | 8 | 2 | N | Ready | Fawz |
