@@ -11,6 +11,8 @@ Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-089 | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 4 | N | Ready | -- |
+| RC-090 | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 4 | N | Ready | -- |
 | RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
 | RC-063 | As a user, I would like for the campus map to include infromation about the buildings | 8 | 2 | N | Ready | -- |
