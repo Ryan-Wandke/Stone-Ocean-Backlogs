@@ -26,7 +26,7 @@ Product Backlog:
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | -- |
-| RC-061 | As a user, I would like for the campus map to be interactive | 4 | 2 | N | Ready | -- | 
+| RC-061 | As a user, I would like for the campus map to be interactive | 4 | 6 | N | Ready | -- | 
 | RC-064 | As a user, I would like for the campus map to have clickable buttons on buildings to display the infromation | 4 | 3 | N | Ready | -- |
 | RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
 | RC-075 | As a developer, I wish to update all of the transition docs | 2 | 4 | Y | Ready | -- |
