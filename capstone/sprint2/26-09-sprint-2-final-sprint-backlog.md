@@ -14,7 +14,7 @@ Product Backlog:
 | RC-085 | As a user I want to see the slides on the kiosk  without a developer manually refreshing it. | 10 | 4 | N | Done | Ryan |
 | RC-086 | As a user I want to see the correct month on the website. | 8 | 2 | N | Done | Fawz |
 | RC-078 | As a user, I want to see what Professor Klump has written on the ECaMS Newsletter without having to pull up my email. | 8 | 3 | N | Done | Nicholas |
-| RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 8 | 4 | N | Done | Nicholas |
+| RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 8 | 4 | N | Ready | Nicholas |
 | RC-077 | As a developer I want to clean up our CI/CD pipeline so it doesn't look like every deployment is failing. | 7 | 3 | Y | Done | Fawz |
 | RC-082 | As a user I want slides to have an expiration date so that users won't see events that are already over. | 6 | 8 | N | Done | Ryan |
 | RC-083 | As a user, I want to be able to look up the number of a building by searching for the name at the bottom of the campus map to find my classes. | 6 | 2 | N | Done | Nicholas |
