@@ -33,9 +33,9 @@ Product Backlog:
 | RC-031 | As a user, I want the StoneOcean team to have a webpage so I can learn more about them | 1 | 5 | N | Ready | -- |
 | RC-088 | As a developer, I want the ability to upload .txt or .docx files as slides. | 1 | 10 | Y | Ready | -- |
 | RC-091 | As a developer, I want to update the readme file in our github to display the correct site links | 7 | 1 | Y | Ready | -- |
-| RC-092 | As a developer, I want to add a date onto slide data that indicates when an event takes place | 6 | 6 | Ready | Y | -- |
-| RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | Ready | N | --|
-| RC-094 | As a user, I want to see the calender update to display my event on the day it occurs | 2 | 6 | Ready | N | -- |
+| RC-092 | As a developer, I want to add a date onto slide data that indicates when an event takes place | 6 | 6 | Y | Ready | -- |
+| RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
+| RC-094 | As a user, I want to see the calender update to display my event on the day it occurs | 2 | 6 | N | Ready | -- |
 | RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 6 | 4 | N | Ready | -- |
 | RC-095 | As a user, I don't want to see the header at the top of the kiosk | 4 | 2 | N | Ready | -- |
 | RC-096 | As a user, I want the map on the ECaMS Billboard to be smaller in size, but still have a high resolution | 5 | 2 | N | Ready | -- |
@@ -61,6 +61,8 @@ Product Backlog:
 | RC-105 | As a developer, I want to fix the kiosk so it will automatically refresh | 8 | 2 | Y | Ready | -- |
 | RC-106 | As a developer, I want to be able to automatically upload or delete slides based on timestamps or events being added | 6 | 8 | Y | Ready | -- |
 | RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | - | Y | Ready | -- |
+| RC-110 | As a developer, I want to be able to change expiration dates on live slides via our API website | 8 | 3 | Y | Ready | -- |
+| RC-111 | As a developer, when restoring a slide from the archive be prompted to change expiration | 8 | 3 | Y | Ready | -- |
 
 
 
