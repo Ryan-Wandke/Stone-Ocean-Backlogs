@@ -11,7 +11,6 @@ Product Backlog: Fawz Manzoor
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-112 | As a user I want to be able to see any amount of slides in the slideshow throughout the day without the slideshow running out of data and going blank | 10 | 8 | N | Ready | -- |
 | RC-089-A | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 4 | N | Ready | -- |
 | RC-089-B | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 3 | N | Ready | -- |
 | RC-089-C | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 3 | N | Ready | -- |
@@ -32,6 +31,7 @@ Product Backlog: Fawz Manzoor
 | RC-114 | As a user I want the slides that expire to be automatically removed each time the kiosk loads. ( Expiration code in list-images, which is only called on API load needs to be moved to list-approved-images which is called each kiosk load) | 6 | 1 | Y | Ready | -- |
 | RC-084 | As a user I want to have it so if I click on a building on the map it tells me what building it is. | 5 | 7 | N | Ready | -- |
 | RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
+| RC-112 | As a user I want to be able to see any amount of slides in the slideshow throughout the day without the slideshow running out of data and going blank | 4 | 8 | N | Ready | -- |
 | RC-116 | As A developer I want to create a Test site for the API as well as a test database that connects to the  test API. | 4 | 4 | N | Ready | -- |
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
@@ -43,6 +43,7 @@ Product Backlog: Fawz Manzoor
 | RC-095 | As a user, I don't want to see the header at the top of the kiosk | 4 | 2 | N | Ready | -- |
 | RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | -- |
 | RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | - | Y | Ready | -- |
+| RC-039 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 3 | 3 | Y | Ready | -- |
 | RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
 | RC-075 | As a developer, I wish to update all of the transition docs | 2 | 4 | Y | Ready | -- |
 | RC-094 | As a user, I want to see the calender update to display my event on the day it occurs | 2 | 6 | N | Ready | -- |
@@ -58,6 +59,7 @@ Product Backlog: Fawz Manzoor
 | RC-102-11 | As a user, I want the ECaMS to be seasonally festive for the month of August | 2 | 3 | N | Ready | -- |
 | RC-102-12 | As a user, I want the ECaMS to be seasonally festive for the month of September | 2 | 3 | N | Ready | -- |
 | RC-103 | As a developer, I want the festive additions to automatically update with the calender | 2 | 3 | Y | Ready | -- |
+| RC-060 | As product owner, coordinate Product Backlog grooming and Sprint Planning across product teams | 2 | 2 | N | Rady | -- |
 | RC-034 | As a developer, I want to be able to have an automatic email sent out to notify my team when slide needs approval | 1 | 5 | Y | Ready | -- |
 | RC-031 | As a user, I want the StoneOcean team to have a webpage so I can learn more about them | 1 | 5 | N | Ready | -- |
 | RC-088 | As a developer, I want the ability to upload .txt or .docx files as slides. | 1 | 10 | Y | Ready | -- |
