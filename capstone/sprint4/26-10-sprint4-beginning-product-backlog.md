@@ -7,13 +7,19 @@ title: Product Backlog
 
 Scrum Master: Nicholas Jones
 
-Product Backlog:
+Product Backlog: Fawz Manzoor 
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-110 | As a user I want to be able to see any amount of slides in the slideshow throughout the day without the slideshow running out of data and going blank | 10 | 8 | N | Ready | -- |
-| RC-089 | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 4 | N | Ready | -- |
-| RC-090 | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 4 | N | Ready | -- |
+| RC-112 | As a user I want to be able to see any amount of slides in the slideshow throughout the day without the slideshow running out of data and going blank | 10 | 8 | N | Ready | -- |
+| RC-089-A | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 4 | N | Ready | -- |
+| RC-089-B | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 3 | N | Ready | -- |
+| RC-089-C | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 3 | N | Ready | -- |
+| RC-089-D | Prepare for and fully participate in recruiting Software Engineering students on Tuesday, October 13 at 9:30 AM CT | 9 | 3 | N | Ready | -- |
+| RC-090-A | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 4 | N | Ready | -- |
+| RC-090-B | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 3 | N | Ready | -- |
+| RC-090-C | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 3 | N | Ready | -- |
+| RC-090-D | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 20 at 2 pm CT | 9 | 3 | N | Ready | -- |
 | RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
 | RC-063 | As a user, I would like for the campus map to include infromation about the buildings | 8 | 2 | N | Ready | -- |
@@ -22,12 +28,19 @@ Product Backlog:
 | RC-056 | As a developer I want to add a search feature | 6 | 4 | N | Ready | -- | 
 | RC-106 | As a developer, I want to be able to automatically upload or delete slides based on timestamps or events being added | 6 | 8 | Y | Ready | -- |
 | RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 6 | 4 | N | Ready | -- |
+| RC-115 | As a developer, i want to be able to permanently delete archived upladed slides | 6 | 3 | N | Ready | -- |
+| RC-114 | As a user I want the slides that expire to be automatically removed each time the kiosk loads. ( Expiration code in list-images, which is only called on API load needs to be moved to list-approved-images which is called each kiosk load) | 6 | 1 | Y | Ready | -- |
 | RC-084 | As a user I want to have it so if I click on a building on the map it tells me what building it is. | 5 | 7 | N | Ready | -- |
 | RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
+| RC-116 | As A developer I want to create a Test site for the API as well as a test database that connects to the  test API. | 4 | 4 | N | Ready | -- |
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | -- |
-| RC-111 | As a developer, I want the slides that I made from the ECaMS Newsletter to be vertical instead of horizontal and make any necessary changed | 4 | 2 | Y | Ready | -- |
+| RC-102-01 | As a user, I want the ECaMS to be seasonally festive for the month of October | 4 | 3 | N | Ready | -- |
+| RC-064 | As a user, I would like for the campus map to have clickable buttons on buildings to display the infromation | 4 | 3 | N | Ready | -- |
+| RC-113 | As a developer, I want the slides that I made from the ECaMS Newsletter to be vertical instead of horizontal and make any necessary changed | 4 | 2 | Y | Ready | -- |
+| RC-117 | As a developer, i want the event date to be optional and show up on the api panel | 4 | 4 | N | Ready | -- |
+| RC-095 | As a user, I don't want to see the header at the top of the kiosk | 4 | 2 | N | Ready | -- |
 | RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | -- |
 | RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | - | Y | Ready | -- |
 | RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
