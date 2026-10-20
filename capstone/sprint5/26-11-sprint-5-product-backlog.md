@@ -11,15 +11,9 @@ Product Owner: Juno Tyne
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-| RC-116 | As A developer I want to create a Test site for the API | 10 | 4 | Y | Ready | -- |
-| RC-125 | As a developer, I want our API test site to have a test database | 10 | 4 | Y | Ready | -- |
-| RC-090-A | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 27 at 11 am | 9 | 1 | N | Ready | -- |
-| RC-090-B | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 27 at 11 am | 9 | 1 | N | Ready | -- |
-| RC-090-C | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 27 at 11 am | 9 | 1 | N | Ready | -- |
-| RC-090-D | Prepare for and fully participate in your mid-term Product Review on Tuesday, October 27 at 11 am | 9 | 1 | N | Ready | -- |
+
 | RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
-| RC-063 | As a user, I would like for the campus map to include infromation about the buildings | 8 | 2 | N | Ready | -- |
 | RC-105 | As a developer, I want to fix the kiosk so it will automatically refresh | 8 | 2 | Y | Ready | -- |
 | RC-051 | As a user, I would like to do on the website is also have a tab that talks about classes that mostly would be in each building | 6 | 4 | N | Ready | -- |
 | RC-128 | As a user, I want the QR code to not be pushed down off the kiosk by the slides | 6 | 5 | N | Ready | -- |
@@ -27,19 +21,13 @@ Product Owner: Juno Tyne
 | RC-106 | As a developer, I want to be able to automatically upload or delete slides based on timestamps or events being added | 6 | 8 | Y | Ready | -- |
 | RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 6 | 4 | N | Ready | -- |
 | RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
-| RC-123 | As a developer, I want the monthly bracket to no be hard coded variable | 4 | 5 | Y | Ready | -- |
-| RC-124 | As a user, I want the monthly bracket to return | 4 | 5 | N | Ready | -- |
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | -- |
 | RC-102-01 | As a user, I want the ECaMS to be seasonally festive for the month of October | 4 | 3 | N | Ready | -- |
 | RC-064 | As a user, I would like for the campus map to have clickable buttons on buildings to display the infromation | 4 | 3 | N | Ready | -- |
-| RC-121 | As a user, I want the search bar to be hidden on any pages that it does not work | 4 | 2 | N | Ready | -- |
-| RC-127 | As a developer, I want to find logo192 issue and resolve that issue | 4 | 1 | Y | Ready | -- |
 | RC-120 | As a user, I want the professor information shown on the tiny monitor behind the Billboard to the TV screen, so I can see the professors more clearly | 3 | 6 | N | Ready | -- |
-| RC-129 | As a user, I don't want the QR code to change location based on slides | 3 | 5 | Y | Ready | -- | 
 | RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | -- |
-| RC-126 | As a user, I want to make sure the icons on the website are visible and more appealing to the eyes | 3 | 3 | N | Ready | -- |
 | RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | - | Y | Ready | -- |
 | RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
 | RC-075 | As a developer, I wish to update all of the transition docs | 2 | 4 | Y | Ready | -- |
