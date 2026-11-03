@@ -11,7 +11,6 @@ Product Owner: Juno Tyne
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
-
 | RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
 | RC-105 | As a developer, I want to fix the kiosk so it will automatically refresh | 8 | 2 | Y | Ready | -- |
