@@ -19,3 +19,7 @@ Product Owner: Juno Tyne
 | RC-118 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 3 | 3 | Y | Ready | Juno |
 | RC-102-02 | As a user, I want the ECaMS to be seasonally festive for the month of November | 2 | 3 | N | Ready | Nicholas |
 | RC-132 | As a user, I want the auto scroll to pause for 20 on the website if I press the forward or backward button | 1 | 2 | N | Ready | Juno |
+| RC-106 | As a developer, I want to be able to automatically upload or delete slides based on timestamps or events being added | 6 | 8 | Y | Ready | Ryan Wandke |
+| RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | Ryan Wandke |
+| RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | 4 | Y | Ready | Ryan Wandke |
+| RC-136 | As a user, I want the calander to be populated with a few events or days. | 5 | 1 | N | Ready | Ryan Wandke |

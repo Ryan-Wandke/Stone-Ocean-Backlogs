@@ -20,6 +20,7 @@ Product Owner: Juno Tyne
 | RC-056 | As a developer I want to add a search feature | 6 | 4 | N | Ready | -- | 
 | RC-106 | As a developer, I want to be able to automatically upload or delete slides based on timestamps or events being added | 6 | 8 | Y | Ready | -- |
 | RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 6 | 4 | N | Ready | -- |
+| RC-136 | As a user, I want the calander to be populated with a few events or days. | 5 | 1 | N | Ready | -- |
 | RC-130 | As a developer, I want to figure out how to put the monthly bracket back up | 5 | 7 | Y | Ready | -- |
 | RC-135 | As a developer, I want to write a script to copy the production mongoDB to the test mongoDB | 5 | 7 | Y | Ready | -- |
 | RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
@@ -31,7 +32,7 @@ Product Owner: Juno Tyne
 | RC-134 | As a developer, I want to submit a request to google safetly to unflag our test API site | 4 | 1 | Y | Ready | -- |
 | RC-120 | As a user, I want the professor information shown on the tiny monitor behind the Billboard to the TV screen, so I can see the professors more clearly | 3 | 6 | N | Ready | -- |
 | RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | -- |
-| RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | - | Y | Ready | -- |
+| RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | 4 | Y | Ready | -- |
 | RC-053 | As a user, I would also like to have a confirmation email that my poster has been sent over to the team for approval | 2 | 3 | N | Ready | -- |
 | RC-075 | As a developer, I wish to update all of the transition docs | 2 | 4 | Y | Ready | -- |
 | RC-094 | As a user, I want to see the calender update to display my event on the day it occurs | 2 | 6 | N | Ready | -- |
