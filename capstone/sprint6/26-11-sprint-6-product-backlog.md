@@ -51,7 +51,6 @@ Product Owner: Juno Tyne
 | RC-034 | As a developer, I want to be able to have an automatic email sent out to notify my team when slide needs approval | 1 | 5 | Y | Ready | -- |
 | RC-031 | As a user, I want the StoneOcean team to have a webpage so I can learn more about them | 1 | 5 | N | Ready | -- |
 | RC-088 | As a developer, I want the ability to upload .txt or .docx files as slides. | 1 | 10 | Y | Ready | -- |
-| RC-131 | As a developer, I want to run a version of Node.js that is not depreciated | 1 | 10 | Y | Ready | -- |
 | RC-132 | As a user, I want the auto scroll to pause for 20 on the website if I press the forward or backward button | 1 | 2 | N | Ready | -- |
 | RC-129 | As a user, I want the search bar to be able to navigate to any page from any page | 1 | -- | N | Ready | -- |
 
