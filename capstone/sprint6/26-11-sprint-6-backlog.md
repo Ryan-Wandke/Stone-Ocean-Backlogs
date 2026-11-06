@@ -11,6 +11,7 @@ Product Owner: Juno Tyne
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-141 | As a user, i want the api to be back online | 10 | 4 | Ready | Fawz |
 | RC-133 | As a user, I want the tabs on the main page of the ECaMS Billboard to have more of the Lewis Colors | 7 | 4 | N | Ready | Nicholas |
 | RC-128 | As a user, I want the QR code to not be pushed down off the kiosk by the slides | 6 | 5 | N | Ready | Juno |
 | RC-140 | As a developer, I want to clean up the code and organization of our images | 6 | 5 | Y | Ready | Juno |
@@ -23,3 +24,4 @@ Product Owner: Juno Tyne
 | RC-101 | As a user, I would like to see the up to date calender on the kiosk | 3 | 4 | N | Ready | Ryan Wandke |
 | RC-107 | As a developer, I want to capture the Calendar as a PNG or jpg and save it so it can be uploaded automatically based on a trigger | 3 | 4 | Y | Ready | Ryan Wandke |
 | RC-136 | As a user, I want the calander to be populated with a few events or days. | 5 | 1 | N | Ready | Ryan Wandke |
+| RC-131 | As a developer, I want to run a version of Node.js that is not depreciated | 1 | 10 | Y | Ready | Fawz Manzoor |
