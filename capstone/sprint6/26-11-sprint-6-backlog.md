@@ -16,6 +16,8 @@ Product Owner: Juno Tyne
 | RC-128 | As a user, I want the QR code to not be pushed down off the kiosk by the slides | 6 | 5 | N | Ready | Juno |
 | RC-140 | As a developer, I want to clean up the code and organization of our images | 6 | 5 | Y | Ready | Juno |
 | RC-080 | As a user, I want to see what's New at Lewis without having to pull up my email. | 6 | 4 | N | Ready | Nicholas |
+| RC-139 | As a Product owner,  help to coach the team we are transitioning to during sprint 6 through sprint planning. | 5 | 2 | N | Ready | Ryan Wandke  |
+| RC-140 | As a Product owner, I will take care of our product backlog grooming and sprint planning between teams. | 5 | 2 | N | Ready | Ryan Wandke |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | Nicholas |
 | RC-118 | As a Scrum Master, I want to facilitate Sprint Planning and story commitment so that I can help the team work with focus and alignment. | 3 | 3 | Y | Ready | Juno |
 | RC-102-02 | As a user, I want the ECaMS to be seasonally festive for the month of November | 2 | 3 | N | Ready | Nicholas |

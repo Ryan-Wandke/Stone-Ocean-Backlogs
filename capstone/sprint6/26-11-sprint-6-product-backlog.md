@@ -5,12 +5,17 @@ title: Product Backlog
 
 # 📋 Product Backlog – *ECaMS Billboard Introduction*
 
-Scrum Master: Nicholas Jones
+Scrum Master: Juno Tyne
 
-Product Owner: Juno Tyne
+Product Owner: Ryan Wandke 
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-137a | As a user, I would like to see Fawz present/attend ECaMS connect. | 9 | 3 | N | Ready | -- |
+| RC-137b | As a user, I would like to see Nicholas present/attend ECaMS connect. | 9 | 3 | N | Ready | -- |
+| RC-137c | As a user, I would like to see Ryan present/attend ECaMS connect. | 9 | 3 | N | Ready | -- |
+| RC-137d | As a user, I would like to see Juno present/attend ECaMS connect. | 9 | 3 | N | Ready | -- |
+| RC-138 | As a user I want to make sure there is no downtime or lost assets as a result of the transition  | 8 | 3 | N | Ready | -- |
 | RC-052 | As a user, I would like to know that my poster was accepted by email | 8 | 3 | N | Ready | -- |
 | RC-055 | As a team member I need to print flyers and put them over campus | 8 | 2 | N | Ready | -- |
 | RC-105 | As a developer, I want to fix the kiosk so it will automatically refresh | 8 | 2 | Y | Ready | -- |
@@ -24,6 +29,8 @@ Product Owner: Juno Tyne
 | RC-130 | As a developer, I want to figure out how to put the monthly bracket back up | 5 | 7 | Y | Ready | -- |
 | RC-135 | As a developer, I want to write a script to copy the production mongoDB to the test mongoDB | 5 | 7 | Y | Ready | -- |
 | RC-093 | As a user, I want the ability to indicate a date an event will occur when uploading slides | 5 | 3 | N | Ready | --|
+| RC-139 | As a Product owner,  help to coach the team we are transitioning to during sprint 6 through sprint planning. | 5 | 2 | N | Ready | -- |
+| RC-140 | As a Product owner, I will take care of our product backlog grooming and sprint planning between teams. | 5 | 2 | N | Ready | -- |
 | RC-048 | As a user, I would like the Professor images to be updated and viewable on the monitor carousel. | 4 | 2 | N | Ready | -- |
 | RC-049 | As a user , I would like updated professor photos | 4 | 3 | N | Ready | -- |
 | RC-050 | As a user, When clicked on the bulding name it will bring you to a website about that building at lewis | 4 | 3 | N | Ready | -- |
