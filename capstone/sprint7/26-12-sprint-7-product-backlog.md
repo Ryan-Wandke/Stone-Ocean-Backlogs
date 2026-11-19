@@ -17,6 +17,10 @@ developer = member of stone ocean
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
+| RC-156a | As a Team Member, I want to commit to delivering our final class presentation on Tuesday, December 8th, from 1:30pm-3:30pm CT | 10 | 5 | N | Ready | -- |
+| RC-156b | As a Team Member, I want to commit to delivering our final class presentation on Tuesday, December 8th, from 1:30pm-3:30pm CT | 10 | 5 | N | Ready | -- |
+| RC-156c | As a Team Member, I want to commit to delivering our final class presentation on Tuesday, December 8th, from 1:30pm-3:30pm CT | 10 | 5 | N | Ready | -- |
+| RC-156d | As a Team Member, I want to commit to delivering our final class presentation on Tuesday, December 8th, from 1:30pm-3:30pm CT | 10 | 5 | N | Ready | -- |
 | RC-138 | As a viewer, I want to make sure there is no downtime or lost assets as a result of the transition  | 8 | 3 | N | Ready | -- |
 | RC-144 | As a developer I want to redefine our minimum viable product and implement it. | 8 | 3 | N | Ready | -- |
 | RC-146 | As an uploader, I want there to be proper guidance to create the poster and an estimated time on when the poster will be approved. | 7 | 3 | N | Ready | -- |
